@@ -8,7 +8,7 @@ const SignIn = () => {
   function submitHandler(evt) {
     evt.preventDefault();
     console.log(JSON.stringify(user));
-    fetch("//localhost:8000/auth", {
+    fetch("https://backend-moviejorid.herokuapp.com/auth", {
       method: "POST",
 
       headers: {

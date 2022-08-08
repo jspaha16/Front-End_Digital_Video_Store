@@ -8,7 +8,7 @@ const MovieDetails = () => {
     data: movie,
     error,
     isPending,
-  } = useFetch("http://localhost:8000/movies/" + ID);
+  } = useFetch("https://backend-moviejorid.herokuapp.com/movies/" + ID);
   return (
     <div>
       {isPending && <div>Loading...</div>}

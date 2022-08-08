@@ -11,7 +11,7 @@ const Register = () => {
   function submitHandler(evt) {
     evt.preventDefault();
     console.log(JSON.stringify(user));
-    fetch("//localhost:8000/users", {
+    fetch("https://backend-moviejorid.herokuapp.com/users", {
       method: "POST",
 
       headers: {

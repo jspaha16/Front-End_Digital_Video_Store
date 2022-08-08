@@ -8,7 +8,9 @@ const TvShows = () => {
     error,
     isPending,
     data: movies,
-  } = useFetch(`http://localhost:8000/movies/title?title=${search}`);
+  } = useFetch(
+    `https://backend-moviejorid.herokuapp.com/movies/title?title=${search}`
+  );
   return (
     <>
       <SearchBox
