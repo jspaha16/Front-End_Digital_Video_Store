@@ -10,13 +10,23 @@ import About from "./components/About";
 import Register from "./components/Register";
 import SignIn from "./components/SignIn";
 import NotFound from "./components/NotFound";
-import useFetch from "./useFetch";
+import React, { useState, useEffect } from "react";
 function App() {
-  const {
-    error,
-    isPending,
-    data: movies,
-  } = useFetch(`https://backend-moviejorid.herokuapp.com/movies/`);
+  const [movies, setMovies] = useState([]);
+  useEffect(() => {
+    fetch("https://backend-moviejorid.herokuapp.com/movies")
+      .then((res) => {
+        return res.json();
+      })
+      .then((json) => {
+        console.log(json.body);
+        setMovies(json.body);
+      })
+      .catch((err) => {
+        console.log(`Error ${err}`);
+      });
+  }, []);
+
   return (
     <div className="app-body">
       <Router>
