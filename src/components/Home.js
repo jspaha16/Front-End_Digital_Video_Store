@@ -8,7 +8,7 @@ const Home = () => {
     error,
     isPending,
     data: movies,
-  } = useFetch("http://localhost:8000/movies");
+  } = useFetch("https://backend-moviejorid.herokuapp.com/movies");
 
   return (
     <div className="home">
