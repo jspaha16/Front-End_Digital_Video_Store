@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.movie-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.movie-preview:hover {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.movie-preview h5 {
+  font-size: 10px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.movie-preview a {
+  text-decoration: none;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  align-items: center;
+}
+.movie-photo {
+  height: 300px;
+  width: 200px;
+  margin-bottom: 5%;
+}
+
+.movie-poster {
+  height: 300px;
+  width: 500px;
+  margin-bottom: 5%;
+}
+.home-page {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.movie-details-css {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: auto;
+  color: #f1356d;
+  text-align: center;
+}
+
+.carusel {
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  width: 600px;
+  margin: auto;
+  margin-top: 10px;
+}
+.app-body {
+  background-color: rgb(57, 56, 56);
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+h5,
+p {
+  color: white;
+  text-align: center;
+}
+h6 {
+  color: white;
+}
+.second-title {
+  margin-top: 50px;
+}
+
+.about-text {
+  color: #fafafa;
+  margin-top: 50px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+/* form*/
+.form {
+  background-color: white;
+  border-radius: 5px;
+  width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  /* height: 600px; */
+}
+
+.form-body {
+  text-align: left;
+  padding: 20px 10px;
+}
+
+.form-body > * {
+  padding: 5px;
+}
+
+.form__label {
+  width: 40%;
+}
+
+.form_input {
+  width: 60%;
+}
+
+.footer {
+  text-align: center;
+}
+.login {
+  color: black;
+}
+
+.checkbox {
+  margin-left: 3%;
+  margin-right: 1%;
+}
+
+.search {
+  margin-left: 33%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,335 @@
+{
+  "movies": [
+    {
+      "Title": "Batman v Superman: Dawn of Justice",
+      "Year": "2016",
+      "id": 1,
+      "Type": "movie",
+      "Featured": "yes",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+      "BigPoster": "https://www.gamespot.com/a/uploads/screen_kubrick/1444/14446008/3021986-1920_bvs_doj_imax_exclusiveart_dom_lg%20copy.jpg"
+    },
+    {
+      "Title": "Superman Returns",
+      "Year": "2006",
+      "id": 2,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2ZDQ2MTctYzlhOC00MWJhLTgxMmItMDgzNDQwMDdhOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+      "BigPoster": "https://i.pinimg.com/736x/4f/e7/a0/4fe7a09f577df5293b92a6abdafbad40.jpg"
+    },
+    {
+      "Title": "Superman",
+      "Year": "1978",
+      "id": 3,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+      "BigPoster": "https://www.capedwonder.com/wp-content/uploads/CW-STM-1978-soundtrack-36-60-poster.jpg"
+    },
+    {
+      "Title": "Superman II",
+      "Year": "1980",
+      "id": 4,
+      "Featured": "yes",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk2NjgzNTEtYzZhZC00ZTBkLTllMGQtMmMxMzU1NDRkM2RlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Rent": 8,
+      "Buy": 20,
+      "Description": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+      "BigPoster": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/superman-2-feature-social.jpg?q=50&fit=contain&w=943&h=472&dpr=1.5"
+    },
+    {
+      "Title": "Superman III",
+      "Year": "1983",
+      "id": 5,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI3ZDllMTctNmI2Mi00OGQ4LTk2ZTQtYTJhMjA5ZGI2YmRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+      "Rent": 8,
+      "Buy": 20,
+      "Description": "Synthetic kryptonite laced with tar splits Superman in two: good Clark Kent and bad Man of Steel.",
+      "BigPoster": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2016/04/IMG_2680.jpeg"
+    },
+    {
+      "Title": "Superman IV: The Quest for Peace",
+      "Year": "1987",
+      "id": 6,
+      "Featured": "yes",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmIwZWY1YTYtNDlhOS00NDRmLWI4MzItNjk2NDc1N2NhYzNlXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+      "Rent": 8,
+      "Buy": 20,
+      "Description": "The Man of Steel crusades for nuclear disarmament and meets Lex Luthor's latest creation, Nuclear Man.",
+      "BigPoster": "https://images.fanart.tv/fanart/superman-iv-the-quest-for-peace-540bc56914e42.jpg"
+    },
+    {
+      "Title": "Casino",
+      "Year": "1995",
+      "id": 7,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Rent": 7,
+      "Buy": 24,
+      "Description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+      "BigPoster": "http://imgc.allpostersimages.com/img/posters/casino_u-L-F4S6VU0.jpg"
+    },
+    {
+      "Title": "The Avengers",
+      "Year": "2012",
+      "id": 8,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Rent": 5,
+      "Buy": 22,
+      "Description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "BigPoster": "https://cdn.wallpapersafari.com/30/7/qNjTin.jpg"
+    },
+    {
+      "Title": "Avengers: Endgame",
+      "Year": "2019",
+      "id": 9,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+      "Rent": 8,
+      "Buy": 31,
+      "Description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "BigPoster": "https://m.media-amazon.com/images/S/aplus-media/sota/b7a1e3ad-baf1-42f4-be0e-813704cb972e.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+    },
+    {
+      "Title": "Avengers: Infinity War",
+      "Year": "2018",
+      "id": 10,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+      "Rent": 9,
+      "Buy": 36,
+      "Description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "BigPoster": "https://heroichollywood.com/wp-content/uploads/2019/11/Avengers_Infinity_War_Kevin_Feige.jpg"
+    },
+    {
+      "Title": "Avengers: Age of Ultron",
+      "Year": "2015",
+      "id": 11,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+      "BigPoster": "https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/ent_impact_home/photo/avengers-age-of-ultron-widejpg-068b8fa607a2fb79.jpg"
+    },
+    {
+      "Title": "The Departed",
+      "Year": "2006",
+      "id": 17,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 19,
+      "Featured": "yes",
+      "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston",
+      "BigPoster": "https://cdn.shopify.com/s/files/1/0969/9128/products/TheDeparted-LeonardoDiCaprioJackNicholson-MartinScorseseHollywoodEnglishMoviePoster_fc624b2b-e4d4-4b3e-ad01-f1d73c83026f.jpg?v=1600761994"
+    },
+    {
+      "Title": "The Avengers: Earth's Mightiest Heroes",
+      "Year": "2010–2012",
+      "id": 13,
+
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+      "Rent": 6,
+      "Buy": 12,
+      "Description": "After 74 villains break out of prison, Marvel's most powerful superheroes team up to capture all of them, and also to defend the Earth from widespread threats.",
+      "BigPoster": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2012/11/avengersEMH_111512_1600.jpg"
+    },
+    {
+      "Title": "Batman Begins",
+      "Year": "2005",
+      "id": 14,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Rent": 9,
+      "Buy": 34,
+      "Description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+      "BigPoster": "https://2.bp.blogspot.com/-E_zYS5bpvFw/VsTGffXQ5MI/AAAAAAAAUFw/5ljCP7PZ8eM/s640/batman%2Bbegins.jpg"
+    },
+
+    {
+      "Title": "The Batman",
+      "Year": "2022",
+      "id": 15,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg",
+      "Rent": 19,
+      "Buy": 47,
+      "Description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "BigPoster": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fthe-batman-new-poster-robert-pattinson-matt-reeves-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    },
+    {
+      "Title": "Batman",
+      "Year": "1989",
+      "id": 16,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2NmZlOTEtYTI5NS00N2JjLWJkNzItMmZkNDBlYmQzNDA2XkEyXkFqcGdeQXVyMTAxODYyODI@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+      "BigPoster": "https://cdn.europosters.eu/image/750/dc-batman-1989-i89827.jpg"
+    },
+    {
+      "Title": "Batman Returns",
+      "Year": "1992",
+      "id": 17,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 14,
+      "Description": "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+      "BigPoster": "https://www.belloflostsouls.net/wp-content/uploads/2022/03/batman_returns_vposter-wide-cropped.jpg"
+    },
+    {
+      "Title": "Batman & Robin",
+      "Year": "1997",
+      "id": 18,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg",
+      "Rent": 2,
+      "Buy": 9,
+      "Description": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+      "BigPoster": "https://www.murphysmultiverse.com/wp-content/uploads/2022/02/Robin-800x450.jpg"
+    },
+    {
+      "Title": "Breaking Bad",
+      "Year": "2008–2013",
+      "id": 19,
+      "Featured": "yes",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODFhZjAwNjEtZDFjNi00ZTEyLThkNzUtMjZmOWM2YjQwODFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX300.jpg",
+      "Rent": 14,
+      "Buy": 39,
+      "Description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+      "BigPoster": "https://cdn10.phillymag.com/wp-content/uploads/2013/09/breakingbadlarge.jpg"
+    },
+    {
+      "Title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "Year": "2012",
+      "id": 20,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "After the birth of Renesmee/Nessie, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+      "BigPoster": "https://images6.fanpop.com/image/photos/32500000/Breaking-Dawn-Part-2-Wallpaper-twilight-series-32562180-1920-1200.jpg"
+    },
+    {
+      "Title": "The Sopranos",
+      "Year": "1999–2007",
+      "id": 21,
+      "Featured": "yes",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Rent": 12,
+      "Buy": 40,
+      "Description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "BigPoster": "https://media.gq.com/photos/5eb2cdfe8ed19ecbcd23cbd5/master/pass/Why-The-Sopranos-Is-the-Hottest-Show-of-2020-gq-may-2020.jpg"
+    },
+    {
+      "Title": "Peaky Blinders",
+      "Year": "2013–2022",
+      "id": 22,
+      "Featured": "yes",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZhODMyZjYtMWY2NS00MTViLWEyNjMtNTM1OWUxNTdjNmQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Rent": 8,
+      "Buy": 26,
+      "Description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+      "BigPoster": "https://th-thumbnailer.cdn-si-edu.com/oLWBKV8-ZmmpnOsDoq2ew3Nc48U=/1000x750/filters:no_upscale():focal(634x85:635x86)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/7b/ba/7bba298e-7e2e-44f0-adb9-b47dfdc1e240/p05m69vt.jpg"
+    },
+    {
+      "Title": "You",
+      "Year": "2018–",
+      "id": 23,
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzkzOGFiY2EtZDcyZi00OWNhLThhNmYtYjQ3ODljMTM5ZDBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+      "BigPoster": "https://www.capitalfm.co.ke/thesauce/files/2021/11/you-season-3-poster-netflix-social-featured.jpeg"
+    },
+    {
+      "Title": "Game of Thrones",
+      "Year": "2011–2019",
+      "id": 24,
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+      "Rent": 14,
+      "Buy": 28,
+      "Description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "BigPoster": "https://cdn.onebauer.media/one/media/5dc2/ee88/8e9e/58b3/6d8d/257f/IronDragonThrone.jpeg?format=jpg&quality=80&width=440&ratio=16-9&resize=aspectfill"
+    },
+    {
+      "Title": "Sherlock Holmes: A Game of Shadows",
+      "Year": "2011",
+      "id": 25,
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 16,
+      "Description": "Detective Sherlock Holmes is on the trail of criminal mastermind Professor Moriarty, who is carrying out a string of random crimes across Europe.",
+      "BigPoster": "https://upload.wikimedia.org/wikipedia/en/5/53/Sherlock_Holmes2Poster.jpg"
+    },
+    {
+      "Title": "Better Call Saul",
+      "Year": "2015–2022",
+      "id": 26,
+      "Featured": "yes",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX300.jpg",
+      "Rent": 14,
+      "Buy": 24,
+      "Description": "The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico as Saul Goodman.",
+      "BigPoster": "https://www.giantfreakinrobot.com/wp-content/uploads/2022/02/Better-Call-Saul.jpeg"
+    },
+    {
+      "Title": "Vikings",
+      "Year": "2013–2020",
+      "id": 27,
+      "Featured": "yes",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Rent": 8,
+      "Buy": 18,
+      "Description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore--and raid--the distant shores across the ocean.",
+      "BigPoster": "https://www.worldhistory.org/img/c/p/1200x627/9576.jpg"
+    },
+    {
+      "Title": "Vikings: Valhalla",
+      "Year": "2022–",
+      "id": 28,
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgwOGI3ZWEtNjBiMy00ZjM3LWFkNWYtNmU1MzY1ZGZkMDU2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Rent": 4,
+      "Buy": 26,
+      "Description": "Follow-up series to 'Vikings' set 100 years afterward and centering on the adventures of Leif Erikson, Freydis, Harald Hardrada and the Norman King William the Conqueror.",
+      "BigPoster": "https://www.whats-on-netflix.com/wp-content/uploads/2022/03/vikings-valhalla-season-2-netflix-what-we-know-so-far.jpg"
+    },
+    {
+      "Title": "The Blacklist",
+      "Year": "2013–",
+      "id": 29,
+
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFkZDI5ZGUtYTdkOC00YTFiLWJjNjMtNTQ3ZjIxMTY2ZjMyXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
+      "Rent": 11,
+      "Buy": 27,
+      "Description": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+      "BigPoster": "https://images-na.ssl-images-amazon.com/images/I/81y3TSt9KTL._RI_.jpg"
+    }
+  ]
+}
