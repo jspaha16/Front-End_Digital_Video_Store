@@ -10,7 +10,13 @@ import About from "./components/About";
 import Register from "./components/Register";
 import SignIn from "./components/SignIn";
 import NotFound from "./components/NotFound";
+import useFetch from "./useFetch";
 function App() {
+  const {
+    error,
+    isPending,
+    data: movies,
+  } = useFetch(`https://backend-moviejorid.herokuapp.com/movies/`);
   return (
     <div className="app-body">
       <Router>

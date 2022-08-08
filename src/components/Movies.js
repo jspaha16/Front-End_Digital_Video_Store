@@ -9,7 +9,7 @@ const Movies = () => {
     isPending,
     data: movies,
   } = useFetch(
-    `https://backend-moviejorid.herokuapp.com/movies/title?title=${search}`
+    `https://backend-moviejorid.herokuapp.com/title?title=${search}`
   );
 
   return (
