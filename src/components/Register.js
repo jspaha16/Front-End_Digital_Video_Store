@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Button from "react-bootstrap/Button";
 
 const Register = () => {
   const [user, setUser] = useState({
@@ -24,7 +23,7 @@ const Register = () => {
         console.log(response);
 
         if (response.status === 200) {
-          alert("User have been succesfuly registered !");
+          alert("User have been successfully registered !");
         }
       })
       .catch((err) => {
