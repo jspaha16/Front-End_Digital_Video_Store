@@ -43,10 +43,11 @@ const About = () => {
         </MDBCarouselInner>
       </MDBCarousel>
       <p className="about-text">
-        This is my assignment 1 of Database Connectivity using Java. The
+        This is my final assignment of Database Connectivity using Java. The
         technologies I have used to complete this assignment are React,
-        React-Bootstrap, Html, Css and JavaScript. I have used a JSON file as
-        fake database.
+        React-Bootstrap, Html, Css and JavaScript in FrontEnd. In BackEnd I have
+        used Java and Spring Boot framework. I have used MongoDb as the database
+        for my Web Application.
       </p>
     </div>
   );
